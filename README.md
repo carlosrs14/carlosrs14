@@ -25,7 +25,7 @@ Focused on low-level programming, high-performance backend systems, and intellig
 
 | Module | Repositories |
 | :--- | :--- |
-| `cv.vision` | [image-calculator](https://github.com/carlosrs14/image-calculator) • [image-segmentation](https://github.com/carlosrs14/image-segmentation) • [vision-based-clock-reader](https://github.com/carlosrs14/vision-based-clock-reader) • [blink2morse](https://github.com/carlosrs14/blink2morse) • [prototype-hackaton](https://github.com/carlosrs14/prototype-hackaton)|
+| `cv.vision` | [image-calculator](https://github.com/carlosrs14/image-calculator) • [image-segmentation](https://github.com/carlosrs14/image-segmentation) • [vision-based-clock-reader](https://github.com/carlosrs14/vision-based-clock-reader)|
 | `ml.models` | [a-perceptron](https://github.com/carlosrs14/a-perceptron) • [ml-crinc](https://github.com/carlosrs14/ml-crinc) • [Preprocesamiento](https://github.com/carlosrs14/Preprocesamiento) |
 | `alg.search` | [search-algorithms](https://github.com/carlosrs14/search-algorithms) |
 
@@ -35,11 +35,8 @@ Focused on low-level programming, high-performance backend systems, and intellig
 | Module | Repositories |
 | :--- | :--- |
 | `sys.core` | [assembly-training](https://github.com/carlosrs14/assembly-training) • [expression-evaluator](https://github.com/carlosrs14/expression-evaluator) • [parallel-data-preprocessig-system](https://github.com/carlosrs14/parallel-data-preprocessig-system) |
-| `sys.monolith` | [bookly-be](https://github.com/carlosrs14/bookly-be) • [Click2Book-be](https://github.com/carlosrs14/Click2Book-be) • [product-stock-be](https://github.com/carlosrs14/product-stock-be) • [ddd-cqrs-api](https://github.com/carlosrs14/ddd-cqrs-api) • [Base-de-datos-F1](https://github.com/carlosrs14/Base-de-datos-F1) • [query-driven-data-modeling](https://github.com/carlosrs14/query-driven-data-modeling) |
+| `sys.monolith` | [bookly](https://github.com/carlosrs14/bookly) • [click-2-book](https://github.com/carlosrs14/click-2-book) • [product-stock-be](https://github.com/carlosrs14/product-stock-be) • [ddd-cqrs-api](https://github.com/carlosrs14/ddd-cqrs-api)|
 | `sys.distributed` | [microservices-event-driven-design](https://github.com/carlosrs14/microservices-event-driven-design) • [ecommerce-serverless](https://github.com/carlosrs14/ecommerce-serverless) • [eco-ride](https://github.com/carlosrs14/eco-ride) |
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosrs14&show_icons=true&bg_color=0D1117&title_color=4AF626&text_color=C9D1D9&icon_color=4AF626&border_color=30363D&hide_border=true" height="150" alt="GitHub Stats" />
-</div>
